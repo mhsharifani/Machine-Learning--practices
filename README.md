@@ -1,2 +1,2 @@
-# Machine-Learning--practices
+# Machine-Learning-practices
 Machine learning practices that I have done
